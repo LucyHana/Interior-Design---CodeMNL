@@ -1,0 +1,17 @@
+* {
+  font-family: "Poppins";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* outline: none;
+  border: none;
+  text-decoration: none; */
+}
+
+body {
+  background-color: #edd1af;
+}
+
+.header-image {
+  background-image: url("/img/pexels-maria-orlova-4906249.jpg");
+}
